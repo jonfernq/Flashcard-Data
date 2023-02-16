@@ -8,7 +8,7 @@ The target readership is English as a second or foreign language students intend
 
 Also note that: 
 
-"The AWL excludes words from the General Service List (the 2000 highest-frequency words in general texts); however, many words in the AWL are general vocabulary rather than restricted to an academic domain, such as area, approach, create, similar, and occur in Sublist One." 
+"The AWL excludes words from the [General Service List](https://en.wikipedia.org/wiki/General_Service_List) (the 2000 highest-frequency words in general texts); however, many words in the AWL are general vocabulary rather than restricted to an academic domain, such as area, approach, create, similar, and occur in Sublist One." 
 
 Here are various collections of the words in the AWL along with useful descriptive information:
 
