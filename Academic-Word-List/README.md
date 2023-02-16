@@ -19,7 +19,13 @@ Thai example sentence for the word. (Source: [Main list of AWL items with Thai /
 
 - [awl_thai_english_blanks.csv](https://github.com/jonfernq/Flashcard-Data/blob/main/Academic-Word-List/awl_thai_english_blanks.csv): Thai-English Academic Word List (AWL) with the given word blanked out in the English and Thai example sentences. Uses three Python scripts: [blankout_sentences.py](https://github.com/jonfernq/Flashcard-Data/blob/main/Academic-Word-List/blankout_sentences.py) which uses [blankout_word_in_sentence.py](https://github.com/jonfernq/Flashcard-Data/blob/main/Academic-Word-List/blankout_word_in_sentence.py) based on [blanked_out_thai_words.py](https://github.com/jonfernq/Flashcard-Data/blob/main/Academic-Word-List/blanked_out_thai_words.py).
 
-## Multiple Choice Questions
+### Flashcards
+
+The word lists generated above can be used to create various kinds of flashcard decks (see on [Quizlet](https://quizlet.com/774977366/academic-word-list-awl-20-words-deck-5-flash-cards/)).
+
+### Multiple Choice Questions
+
+The word lists generated above can also be used to create multiple-choice questions to assess mastery in tests and quizzes.  
 
 - [fcards2mcquestions.py](https://github.com/jonfernq/Flashcard-Data/blob/main/Academic-Word-List/fcards2mcquestions.py): Generate multiple choice questions from a set of flashcards (see [output](https://github.com/jonfernq/Flashcard-Data/blob/main/Academic-Word-List/output_mcquestions.txt)).
 
