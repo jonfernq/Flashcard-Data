@@ -19,4 +19,9 @@ Thai example sentence for the word. (Source: [Main list of AWL items with Thai /
 
 - [awl_thai_english_blanks.csv](https://github.com/jonfernq/Flashcard-Data/blob/main/Academic-Word-List/awl_thai_english_blanks.csv): Thai-English Academic Word List (AWL) with the given word blanked out in the English and Thai example sentences. Uses three Python scripts: [blankout_sentences.py](https://github.com/jonfernq/Flashcard-Data/blob/main/Academic-Word-List/blankout_sentences.py) which uses [blankout_word_in_sentence.py](https://github.com/jonfernq/Flashcard-Data/blob/main/Academic-Word-List/blankout_word_in_sentence.py) based on [blanked_out_thai_words.py](https://github.com/jonfernq/Flashcard-Data/blob/main/Academic-Word-List/blanked_out_thai_words.py).
 
+## Multiple Choice Questions
+
+- [fcards2mcquestions.py](https://github.com/jonfernq/Flashcard-Data/blob/main/Academic-Word-List/fcards2mcquestions.py): Generate multiple choice questions from a set of flashcards. 
+
+Specifications: Given a list of flashcards each with front and back, and n the number of options for each multiple choice question to be constructed, then from these flashcards construct multiple choice questions in the following manner. Each front of a flashcard is the stem of a multiple choice question, the n options for that question are selected randomly from the backs of all flashcards. 
 
