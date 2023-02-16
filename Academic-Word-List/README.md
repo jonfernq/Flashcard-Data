@@ -21,7 +21,7 @@ Thai example sentence for the word. (Source: [Main list of AWL items with Thai /
 
 ## Multiple Choice Questions
 
-- [fcards2mcquestions.py](https://github.com/jonfernq/Flashcard-Data/blob/main/Academic-Word-List/fcards2mcquestions.py): Generate multiple choice questions from a set of flashcards. 
+- [fcards2mcquestions.py](https://github.com/jonfernq/Flashcard-Data/blob/main/Academic-Word-List/fcards2mcquestions.py): Generate multiple choice questions from a set of flashcards (see [output](https://github.com/jonfernq/Flashcard-Data/blob/main/Academic-Word-List/output_mcquestions.txt)).
 
 Specifications: Given a list of flashcards each with front and back, and n the number of options for each multiple choice question to be constructed, then from these flashcards construct multiple choice questions in the following manner. Each front of a flashcard is the stem of a multiple choice question, the n options for that question are selected randomly from the backs of all flashcards. 
 
