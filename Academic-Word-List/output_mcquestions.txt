@@ -1,0 +1,39 @@
+Question 1:
+What is the capital of France?
+
+1. Moscow
+2. Berlin
+3. London
+4. Paris
+
+Question 2:
+What is the largest planet in the solar system?
+
+1. Uranus
+2. Jupiter
+3. Neptune
+4. Saturn
+
+Question 3:
+What is the highest mountain in the world?
+
+1. K2
+2. Mount Kilimanjaro
+3. Mount Everest
+4. Denali
+
+Question 4:
+What is the chemical symbol for gold?
+
+1. Ag
+2. Fe
+3. Hg
+4. Au
+
+Question 5:
+What is the largest country in the world by land area?
+
+1. China
+2. Canada
+3. United States
+4. Russia
