@@ -4,7 +4,7 @@ The Academic Word List (AWL) is one of the first first formal word lists of acad
 
 "The Academic Word List (AWL) is a word list of 570 English words which appear with great frequency in a broad range of academic texts. 
 The target readership is English as a second or foreign language students intending to enter English-medium higher education, and teachers of such students. 
-[It is] divided into ten sublists in decreasing order of frequency." (Source: [Wikipedia (https://en.wikipedia.org/wiki/Academic_Word_List)) 
+[It is] divided into ten sublists in decreasing order of frequency." (Source: [Wikipedia](https://en.wikipedia.org/wiki/Academic_Word_List)) 
 
 Also note that: 
 
