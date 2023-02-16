@@ -10,8 +10,7 @@ such as area, approach, create, similar, and occur in Sublist One." (Source: [Wi
 
 Here are various collections of the words in the AWL along with useful descriptive information:
 
-- [awl_sublists.csv](https://github.com/jonfernq/Flashcard-Data/blob/main/Academic-Word-List/awl_sublists.csv): The three columns of this CSV are: Headword, Sublist, 
-- and Related word forms. (Source: [EAP Foundation](https://www.eapfoundation.com/vocab/academic/awllists/)) 
+- [awl_sublists.csv](https://github.com/jonfernq/Flashcard-Data/blob/main/Academic-Word-List/awl_sublists.csv): The three columns of this CSV are: Headword, Sublist, and Related word forms. (Source: [EAP Foundation](https://www.eapfoundation.com/vocab/academic/awllists/)) 
 
 - [awl_thai_english.csv](https://github.com/jonfernq/Flashcard-Data/blob/main/Academic-Word-List/awl_thai_english.csv): The four columns of this CSV are: English word, English example sentence for the word, Thai word, 
 Thai example sentence for the word. (Source: [Main list of AWL items with Thai / English examples](http://www.sealang.net/thai/vocabulary/awl-2.htm) from [SEAlang Thai Vocabulary](http://sealang.net/thai/vocabulary/))
