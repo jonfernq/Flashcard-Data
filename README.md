@@ -19,3 +19,5 @@ Flashcards in CSV files and SQLite databases along with Python utilities for cre
 ### Flashcards for Specific Word Lists for Language Learning:
 
 - [Academic Word List (AWL)](https://github.com/jonfernq/Flashcard-Data/tree/main/Academic-Word-List)
+
+- [Pali Vocabulary](https://github.com/jonfernq/Flashcard-Data/tree/main/PaliVocabulary) 
