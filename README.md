@@ -12,6 +12,8 @@ Research project outlined in paper and conference presentation:
 
 - [React Flashcards](https://github.com/jonfernq/React-Flashcards) 
 
+- [Python Flashcards](https://github.com/jonfernq/Python-Flashcards)
+
 ## Flashcard Data
 
 Flashcards in CSV files and SQLite databases along with Python utilities for creating flashcards.
