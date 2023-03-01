@@ -14,7 +14,7 @@ Here are some general steps you can follow to implement this app in Django:
 
 1. **Model:** [Define the models for the quiz and user quiz score tables in Django's ORM](https://github.com/jonfernq/Flashcard-Data/blob/main/DjangoFashcardApp/Models.md).
 
-2. **Views:**[Create the views for the quiz page, submission page, and result page.](https://github.com/jonfernq/Flashcard-Data/blob/main/DjangoFashcardApp/Views.md) The quiz page should display the questions with checkboxes, the submission page should process the user's answers and calculate the score, and the result page should display the corrected quiz with wrong answers highlighted in red and the total score.
+2. **Views:** [Create the views for the quiz page, submission page, and result page.](https://github.com/jonfernq/Flashcard-Data/blob/main/DjangoFashcardApp/Views.md) The quiz page should display the questions with checkboxes, the submission page should process the user's answers and calculate the score, and the result page should display the corrected quiz with wrong answers highlighted in red and the total score.
 
 3. **URL Patterns:** [Define the URL patterns for the views.](https://github.com/jonfernq/Flashcard-Data/blob/main/DjangoFashcardApp/URLPatterns.md)
 
