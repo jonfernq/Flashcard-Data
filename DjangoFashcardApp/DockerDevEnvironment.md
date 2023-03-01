@@ -2,13 +2,13 @@
 
 For the creation of the quiz app, additional steps needed to do development work in a Docker Container  
 
-To develop the quiz app outlined above in a Docker container, you will need to follow these additional steps:
+To develop the quiz app outlined above in a Docker container, you will need to follow these additional steps (follow the links for more details):
 
 1. Install Docker and Docker Compose on your local machine.
 
-2. Create a Dockerfile that describes how to build the Docker image for your Django app. The Dockerfile should include instructions for installing any dependencies (e.g. Python packages) and copying your code into the image.
+2. Create a [Dockerfile](https://github.com/jonfernq/Flashcard-Data/blob/main/DjangoFashcardApp/Dockerfile.md) that describes how to build the Docker image for your Django app. The Dockerfile should include instructions for installing any dependencies (e.g. Python packages) and copying your code into the image.
 
-3. Create a docker-compose.yml file that describes the services for your app. This should include a service for your Django app, as well as any other services that it depends on (e.g. a database).
+3. Create a [docker-compose.yml](https://github.com/jonfernq/Flashcard-Data/blob/main/DjangoFashcardApp/DockerCompose.md) file that describes the services for your app. This should include a service for your Django app, as well as any other services that it depends on (e.g. a database).
 
 4. Build the Docker image for your app using the Dockerfile:
 
