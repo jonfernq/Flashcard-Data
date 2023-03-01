@@ -1,6 +1,4 @@
-## Django Flashcard App 
-
-A flashcard app built with Django supplemented with JavaScript and Docker containers. 
+## Multiple Choice Quiz App
 
 Here is a recipe for a Coursera-like multiple choice quiz app in Django,
 that displays a page of multiple choice questions using checkboxes.
@@ -12,21 +10,23 @@ and the user quiz score is stored in a separate database table.
 
 Here are some general steps you can follow to implement this app in Django:
 
-1. Define the models for the quiz and user quiz score tables in Django's ORM.
+0. [Setup Django Project and App.](https://github.com/jonfernq/Flashcard-Data/blob/main/DjangoFashcardApp/SetupDjangoProjectApp.md)
 
-2. Create the views for the quiz page, submission page, and result page. The quiz page should display the questions with checkboxes, the submission page should process the user's answers and calculate the score, and the result page should display the corrected quiz with wrong answers highlighted in red and the total score.
+1. [Define the models for the quiz and user quiz score tables in Django's ORM](https://github.com/jonfernq/Flashcard-Data/blob/main/DjangoFashcardApp/Models.md).
 
-3. Define the URL patterns for the views.
+2. [Create the views for the quiz page, submission page, and result page.](https://github.com/jonfernq/Flashcard-Data/blob/main/DjangoFashcardApp/Views.md) The quiz page should display the questions with checkboxes, the submission page should process the user's answers and calculate the score, and the result page should display the corrected quiz with wrong answers highlighted in red and the total score.
 
-4. Create the templates for the quiz, submission, and result pages.
+3. [Define the URL patterns for the views.](https://github.com/jonfernq/Flashcard-Data/blob/main/DjangoFashcardApp/URLPatterns.md)
 
-5. Write the JavaScript or jQuery code to highlight the wrong answers and calculate the score.
+4. [Create the templates for the quiz, submission, and result pages.](https://github.com/jonfernq/Flashcard-Data/blob/main/DjangoFashcardApp/Templates.md)
 
-6. Implement the functionality to store the quiz and user quiz score data in the database.
+5. [Write the JavaScript or jQuery code to highlight the wrong answers and calculate the score.](https://github.com/jonfernq/Flashcard-Data/blob/main/DjangoFashcardApp/JavaScript.md)
 
-7. Test the app and make any necessary adjustments.
+6. [Implement the functionality to store the quiz and user quiz score data in the database.](https://github.com/jonfernq/Flashcard-Data/blob/main/DjangoFashcardApp/StoreData.md)
 
-Here's a more detailed breakdown of these steps (follow links for details):
+7. [Test the app and make any necessary adjustments.](https://github.com/jonfernq/Flashcard-Data/blob/main/DjangoFashcardApp/TestApp.md)
+
+Here's a more detailed breakdown of these steps:
 
 1. Define the models for the quiz and user quiz score tables in Django's ORM:
 You will need to define two models, one for the quiz questions and one for the user quiz scores. The quiz questions model should include fields for the question text, the answer options, and the correct answer. The user quiz scores model should include fields for the user's name or ID, the quiz questions answered, and the score.
@@ -48,5 +48,4 @@ You will need to create a database table for the quiz questions and another tabl
 
 7. Test the app and make any necessary adjustments:
 Finally, you should test the app and make sure that everything is working as expected. You may need to make adjustments to the views, templates, or database models based on your testing results.
-
 
