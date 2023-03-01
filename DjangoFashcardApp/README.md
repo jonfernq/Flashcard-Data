@@ -26,7 +26,13 @@ Here are some general steps you can follow to implement this app in Django:
 
 7. [Test the app and make any necessary adjustments.](https://github.com/jonfernq/Flashcard-Data/blob/main/DjangoFashcardApp/TestApp.md)
 
-Here's a more detailed breakdown of these steps:
+Additionally, an easy to deploy development environment can be set up:
+
+8. [Docker Development Environment](https://github.com/jonfernq/Flashcard-Data/blob/main/DjangoFashcardApp/DockerDevEnvironment.md)
+
+### Additional Details 
+
+Here's a more detailed breakdown of the above steps:
 
 1. Define the models for the quiz and user quiz score tables in Django's ORM:
 You will need to define two models, one for the quiz questions and one for the user quiz scores. The quiz questions model should include fields for the question text, the answer options, and the correct answer. The user quiz scores model should include fields for the user's name or ID, the quiz questions answered, and the score.
