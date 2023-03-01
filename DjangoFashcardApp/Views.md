@@ -1,3 +1,5 @@
+## Views 
+
 Commands and code to accomplish the second step in the Django quiz app:
 
 2. Create the views for the quiz page, submission page, and result page:
