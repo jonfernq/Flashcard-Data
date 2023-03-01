@@ -1,8 +1,8 @@
 ### Docker Development Environment
 
-For the creation of the flashcard app, additional steps needed to do development work in a Docker Container  
+For the creation of the quiz app, additional steps needed to do development work in a Docker Container  
 
-To develop the flashcard app outlined above in a Docker container, you will need to follow these additional steps:
+To develop the quiz app outlined above in a Docker container, you will need to follow these additional steps:
 
 1. Install Docker and Docker Compose on your local machine.
 
