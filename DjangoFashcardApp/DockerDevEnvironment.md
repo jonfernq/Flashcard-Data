@@ -4,13 +4,13 @@ For the creation of the flashcard app, additional steps needed to do development
 
 To develop the flashcard app outlined above in a Docker container, you will need to follow these additional steps:
 
-- 1. Install Docker and Docker Compose on your local machine.
+1. Install Docker and Docker Compose on your local machine.
 
-- 2. Create a Dockerfile that describes how to build the Docker image for your Django app. The Dockerfile should include instructions for installing any dependencies (e.g. Python packages) and copying your code into the image.
+2. Create a Dockerfile that describes how to build the Docker image for your Django app. The Dockerfile should include instructions for installing any dependencies (e.g. Python packages) and copying your code into the image.
 
-- 3. Create a docker-compose.yml file that describes the services for your app. This should include a service for your Django app, as well as any other services that it depends on (e.g. a database).
+3. Create a docker-compose.yml file that describes the services for your app. This should include a service for your Django app, as well as any other services that it depends on (e.g. a database).
 
-- 4. Build the Docker image for your app using the Dockerfile:
+4. Build the Docker image for your app using the Dockerfile:
 
 ```php
 docker build -t <image_name> .
