@@ -1,3 +1,5 @@
+## JavaScript 
+
 Commands and code to accomplish this sixth 'JavaScript' step for the Django quiz app:
 
 6. Write the JavaScript code to highlight the wrong answers and calculate the score:
