@@ -10,21 +10,21 @@ and the user quiz score is stored in a separate database table.
 
 Here are some general steps you can follow to implement this app in Django:
 
-0. [Setup Django Project and App.](https://github.com/jonfernq/Flashcard-Data/blob/main/DjangoFashcardApp/SetupDjangoProjectApp.md)
+0. **Setup:** [Setup Django Project and App.](https://github.com/jonfernq/Flashcard-Data/blob/main/DjangoFashcardApp/SetupDjangoProjectApp.md)
 
-1. [Define the models for the quiz and user quiz score tables in Django's ORM](https://github.com/jonfernq/Flashcard-Data/blob/main/DjangoFashcardApp/Models.md).
+1. **Model:** [Define the models for the quiz and user quiz score tables in Django's ORM](https://github.com/jonfernq/Flashcard-Data/blob/main/DjangoFashcardApp/Models.md).
 
-2. [Create the views for the quiz page, submission page, and result page.](https://github.com/jonfernq/Flashcard-Data/blob/main/DjangoFashcardApp/Views.md) The quiz page should display the questions with checkboxes, the submission page should process the user's answers and calculate the score, and the result page should display the corrected quiz with wrong answers highlighted in red and the total score.
+2. **Views:**[Create the views for the quiz page, submission page, and result page.](https://github.com/jonfernq/Flashcard-Data/blob/main/DjangoFashcardApp/Views.md) The quiz page should display the questions with checkboxes, the submission page should process the user's answers and calculate the score, and the result page should display the corrected quiz with wrong answers highlighted in red and the total score.
 
-3. [Define the URL patterns for the views.](https://github.com/jonfernq/Flashcard-Data/blob/main/DjangoFashcardApp/URLPatterns.md)
+3. **URL Patterns:** [Define the URL patterns for the views.](https://github.com/jonfernq/Flashcard-Data/blob/main/DjangoFashcardApp/URLPatterns.md)
 
-4. [Create the templates for the quiz, submission, and result pages.](https://github.com/jonfernq/Flashcard-Data/blob/main/DjangoFashcardApp/Templates.md)
+4. **Templates:** [Create the templates for the quiz, submission, and result pages.](https://github.com/jonfernq/Flashcard-Data/blob/main/DjangoFashcardApp/Templates.md)
 
-5. [Write the JavaScript or jQuery code to highlight the wrong answers and calculate the score.](https://github.com/jonfernq/Flashcard-Data/blob/main/DjangoFashcardApp/JavaScript.md)
+5. **JavaScript:** [Write the JavaScript or jQuery code to highlight the wrong answers and calculate the score.](https://github.com/jonfernq/Flashcard-Data/blob/main/DjangoFashcardApp/JavaScript.md)
 
-6. [Implement the functionality to store the quiz and user quiz score data in the database.](https://github.com/jonfernq/Flashcard-Data/blob/main/DjangoFashcardApp/StoreData.md)
+6. **Store Data:** [Implement the functionality to store the quiz and user quiz score data in the database.](https://github.com/jonfernq/Flashcard-Data/blob/main/DjangoFashcardApp/StoreData.md)
 
-7. [Test the app and make any necessary adjustments.](https://github.com/jonfernq/Flashcard-Data/blob/main/DjangoFashcardApp/TestApp.md)
+7. **Test App:** [Test the app and make any necessary adjustments.](https://github.com/jonfernq/Flashcard-Data/blob/main/DjangoFashcardApp/TestApp.md)
 
 Additionally, an easy to deploy development environment can be set up:
 
