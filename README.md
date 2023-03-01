@@ -14,6 +14,8 @@ Research project outlined in paper and conference presentation:
 
 - [Python Flashcards](https://github.com/jonfernq/Python-Flashcards)
 
+- [Django Flashcards](https://github.com/jonfernq/Flashcard-Data/tree/main/DjangoFashcardApp)
+
 ## Flashcard Data
 
 Flashcards in CSV files and SQLite databases along with Python utilities for creating flashcards.
