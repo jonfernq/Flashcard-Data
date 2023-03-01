@@ -1,4 +1,4 @@
-
+## Multiple Choice Quiz App
 
 Here is a recipe for a Coursera-like multiple choice quiz app in Django,
 that displays a page of multiple choice questions using checkboxes.
