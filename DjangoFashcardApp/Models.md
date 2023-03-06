@@ -48,17 +48,6 @@ python manage.py migrate
 
 This will create the necessary database tables based on the models you've defined.
 
-### Define Models
-
-Define the models for the quiz and user quiz score tables in Django's ORM, as described in the previous answer.
-
-Run the following commands to create the necessary database tables based on the models you've defined:
-
-```
-python manage.py makemigrations
-python manage.py migrate
-```
-
 Finally, you can test your new Django app by running the development server with the following command:
 
 ```
