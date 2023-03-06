@@ -29,10 +29,10 @@ Test questions about JavaScript concepts like ES5 and ES6.
 Multiple choice questions related to closures in JavaScript (and how they can be used to maintain privacy):
 
 What is a closure in JavaScript?
-a) A function that returns another function
-b) A function that has access to variables in its outer scope
-c) A function that has access to variables in its inner scope
-d) A function that is defined inside another function
+a) A function that returns another function<br>
+b) A function that has access to variables in its outer scope<br>
+c) A function that has access to variables in its inner scope<br>
+d) A function that is defined inside another function<br>
 
 What is the output of the following code?
 
@@ -77,22 +77,17 @@ let counter = createCounter();
 counter.increment();
 counter.increment();
 console.log(counter.getCount());
-a) 0
-b) 1
-c) 2
-d) 3
+a) 0<br>
+b) 1<br>
+c) 2<br>
+d) 3<br>
 
 What is the purpose of using closures in JavaScript?
-a) To make code more efficient
-b) To create private variables and functions
-c) To create global variables and functions
-d) To avoid using the "var" keyword.
+a) To make code more efficient<br>
+b) To create private variables and functions<br>
+c) To create global variables and functions<br>
+d) To avoid using the "var" keyword.<br>
 
-
-
-
-Jon Fernquest
-please create five more questions in this area 
 Sure, here are five more multiple choice questions related to closures in JavaScript:
 
 What is the output of the following code?
@@ -106,16 +101,16 @@ function outer(x) {
 
 let innerFunction = outer(5);
 console.log(innerFunction(3));
-a) 5
-b) 8
-c) 3
-d) TypeError: innerFunction is not a function
+a) 5<br>
+b) 8<br>
+c) 3<br>
+d) TypeError: innerFunction is not a function<br>
 
 How can closures be used to implement a module in JavaScript?
-a) By using the "module" keyword to create a new module
-b) By creating a function that returns an object with public and private methods
-c) By creating an object with public and private methods
-d) By using the "private" keyword to create private methods and variables
+a) By using the "module" keyword to create a new module<br>
+b) By creating a function that returns an object with public and private methods<br>
+c) By creating an object with public and private methods<br>
+d) By using the "private" keyword to create private methods and variables<br>
 
 What is the output of the following code?
 javascript
@@ -131,10 +126,10 @@ function outer() {
 
 let innerFunction = outer();
 console.log(innerFunction());
-a) 10
-b) 5
-c) undefined
-d) ReferenceError: x is not defined
+a) 10<br>
+b) 5<br>
+c) undefined<br>
+d) ReferenceError: x is not defined<br>
 
 What is the output of the following code?
 javascript
@@ -148,16 +143,16 @@ function outer() {
 
 let innerFunction = outer();
 console.log(innerFunction(3));
-a) 5
-b) 8
-c) 3
-d) TypeError: innerFunction is not a function
+a) 5<br>
+b) 8<br>
+c) 3<br>
+d) TypeError: innerFunction is not a function<br>
 
 How can closures be used to prevent the creation of global variables in JavaScript?
-a) By using the "var" keyword to declare variables
-b) By using the "let" keyword to declare variables
-c) By using the "const" keyword to declare variables
-d) By creating a function with local variables that cannot be accessed from outside the function.
+a) By using the "var" keyword to declare variables<br>
+b) By using the "let" keyword to declare variables<br>
+c) By using the "const" keyword to declare variables<br>
+d) By creating a function with local variables that cannot be accessed from outside the function.<br>
 
 
 
