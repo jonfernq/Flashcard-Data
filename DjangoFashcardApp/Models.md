@@ -54,6 +54,3 @@ Finally, you can test your new Django app by running the development server with
 python manage.py runserver
 ```
 You should be able to visit the app in your web browser at http://localhost:8000/.
-
-Of course, there are many more steps involved in building a complete Django app, but these should get you started with a basic project and app structure.
-
