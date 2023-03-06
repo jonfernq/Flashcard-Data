@@ -36,8 +36,7 @@ d) A function that is defined inside another function<br>
 
 2. What is the output of the following code?
 
-javascript
-Copy code
+```javascript
 function outer() {
   let x = 5;
   return function inner() {
@@ -47,13 +46,14 @@ function outer() {
 
 let innerFunction = outer();
 console.log(innerFunction());
+```
 
 a) 5<br>
 b) undefined<br>
 c) ReferenceError: x is not defined<br>
 d) TypeError: innerFunction is not a function<br>
 
-3. How can closures be used to maintain privacy in JavaScript?
+3. How can closures be used to maintain privacy in JavaScript?<br>
 a) By making all variables private<br>
 b) By creating functions with private variables that are inaccessible from the outside world<br>
 c) By creating functions that are inaccessible from the outside world<br>
@@ -61,7 +61,7 @@ d) By using the "private" keyword to make variables private<br>
 
 4. What is the output of the following code?
 
-javascript
+```javascript
 function createCounter() {
   let count = 0;
   return {
@@ -79,7 +79,7 @@ counter.increment();
 counter.increment()
 ;
 console.log(counte());
-
+```
 a) 0<br>
 b) 1<br>
 c) 2<br>
@@ -92,8 +92,7 @@ c) To create global variables and functions<br>
 d) To avoid using the "var" keyword.<br>
 
 5. What is the output of the following code?
-javascript
-Copy code
+```javascript
 function 
 outer(x) {
   return function inner(y) {
@@ -103,8 +102,8 @@ outer(x) {
 <br>
 let innerFunction = outer(5);
 console.log(innerFun
-
-6. How can closures be used to implement a module in JavaScript?
+```
+6. How can closures be used to implement a module in JavaScript?<br>
 a) By using the "module" keyword to create a new module<br>
 b) By creating a function that returns an object with public and private methods<br>
 c) By creating an object with public and private methods<br>
@@ -112,8 +111,7 @@ d) By using the "private" keyword to create private methods and variables<br>
 
 7. What is the output of the following code?
 
-javascript
-Copy code
+```javascript
 let x = 10;
 
 function outer() {
@@ -124,17 +122,15 @@ function outer() {
 }
 
 let 7. innerFunction = outer();
-co
-nsole.log(innerFunction());
-
+console.log(innerFunction());
+```
 a) 10<br>
 b) 5<br>
 c) undefined<br>
 d) ReferenceError: x is not defined<br>
 
 8. What is the output of the following code?
-javascript
-Copy code
+```javascript
 function outer() {
   let x = 5;
   return function inner(y) {
@@ -144,8 +140,8 @@ function outer() {
 }
 
 let innerFunction = outer();
-co8. nsole.log(innerFunction(3));
-
+console.log(innerFunction(3));
+```
 a) 5<br>
 b) 8<br>
 c) 3<br>
