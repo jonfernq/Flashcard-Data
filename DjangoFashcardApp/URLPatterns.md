@@ -2,7 +2,7 @@
 
 Commands and code to accomplish this fourth 'URL patterns' step for the Django quiz app:
 
-4. Define the URL patterns for the views:
+Define the URL patterns for the views:
 
 You will need to define URL patterns that map to the quiz page, submission page, and result page views.
 Sure, here's an example of how you could define the URL patterns for the views:
