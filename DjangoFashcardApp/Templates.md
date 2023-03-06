@@ -2,7 +2,7 @@
 
 Commands and code to accomplish this fifth 'templates' step for the Django quiz app:
 
-5. Create the templates for the quiz, submission, and result pages:
+Create the templates for the quiz, submission, and result pages:
 
 You will need to create HTML templates for each of the pages that use Django's templating language to display the dynamic content.
 Here's an example of how you could create the templates for the quiz, submission, and result pages:
