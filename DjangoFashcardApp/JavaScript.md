@@ -2,7 +2,7 @@
 
 Commands and code to accomplish this sixth 'JavaScript' step for the Django quiz app:
 
-6. Write the JavaScript code to highlight the wrong answers and calculate the score:
+Write the JavaScript code to highlight the wrong answers and calculate the score:
 
 You can use JavaScript to add the functionality to highlight the wrong answers and calculate the score on the client side.
 Here's an example of how you can write the JavaScript code to highlight wrong answers and calculate the score:
