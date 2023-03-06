@@ -2,9 +2,8 @@
 
 The first step in creating the Django quiz app:
 
-1. Define the models for the quiz and user quiz score tables in Django's ORM:
-
-
+- 1. Define the models for the quiz and user quiz score tables in Django's ORM:
+ 
 Define two models, one for the quiz questions and one for the user quiz scores. 
 
 The quiz questions model should include fields for the question text, the answer options, and the correct answer. 
