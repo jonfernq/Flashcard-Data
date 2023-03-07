@@ -132,6 +132,7 @@ c) undefined<br>
 d) ReferenceError: x is not defined<br>
 
 8. What is the output of the following code?
+
 ```javascript
 function outer() {
   let x = 5;
@@ -144,12 +145,14 @@ function outer() {
 let innerFunction = outer();
 console.log(innerFunction(3));
 ```
+
 a) 5<br>
 b) 8<br>
 c) 3<br>
 d) TypeError: innerFunction is not a function<br>
 
 9. How can closures be used to prevent the creation of global variables in JavaScript?<br>
+
 a) By using the "var" keyword to declare variables<br>
 b) By using the "let" keyword to declare variables<br>
 c) By using the "const" keyword to declare variables<br>
