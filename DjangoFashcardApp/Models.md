@@ -6,11 +6,11 @@ Define the models for the quiz and user quiz score tables in Django's ORM:
  
 Define two models, one for the quiz questions and one for the user quiz scores. 
 
-Put the code below for the two models.py inside 'models.py' in the Django application folder.
+Put the code below for the two inside 'models.py' in the Django application folder.
 
-The quiz questions model should include fields for the question text, the answer options, and the correct answer. 
+The quiz questions model has fields for the question text, the answer options, and the correct answer. 
 
-The user quiz scores model should include fields for the user's name or ID, the quiz questions answered, and the score.
+The user quiz scores model has fields for the user's name or ID, the quiz questions answered, and the score.
 
 Here's an implementation of the two models in Django:
 
