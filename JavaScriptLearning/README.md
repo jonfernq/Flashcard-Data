@@ -4,6 +4,7 @@ Learning JavaScript mostly for use in user interfaces such as those using the Re
 
 Test questions about JavaScript concepts like ES5 and ES6.
 
+```
 - 1. What is the difference between "var" and "let" in JavaScript? Provide an example to illustrate their different behaviors.
 
 - 2. Explain the concept of a "closure" in JavaScript, and provide an example of how it can be used to maintain privacy.
@@ -23,6 +24,7 @@ Test questions about JavaScript concepts like ES5 and ES6.
 - 9. Explain the concept of "hoisting" in JavaScript, and provide an example of how it can affect code execution.
 
 - 10. What is "promises" in JavaScript? Explain their purpose and provide an example of how they can be used to handle asynchronous code.
+```
 
 ### Closures
 
