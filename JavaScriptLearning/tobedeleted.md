@@ -1,6 +1,6 @@
 ## Multiple Choice Questions: 
 
-To get this formatted text: 
+**To get this formatted text:** 
 
 | 1. Question | 
 | --- |
@@ -12,7 +12,9 @@ To get this formatted text:
 - [ ] a) answer #1
 - [ ] b) answer #2
 
-Use this markdown: 
+---
+
+**Use this markdown:** 
 
 ```
 | 1. Question | 
